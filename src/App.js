@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+// import logo from './logo.svg';   Vishal Here
 import "./App.css";
 
 function App() {
@@ -62,8 +62,7 @@ function App() {
                 </li>
               </ul>
             </li>
-            <li className="nav-item">
-            </li>
+            <li className="nav-item"></li>
           </ul>
           <form className="d-flex" role="search">
             <input
